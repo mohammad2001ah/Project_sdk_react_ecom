@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Project_SDK_react_eco/static/css/main.75ac6197.css",
+    "main.js": "/Project_SDK_react_eco/static/js/main.e3dd3d88.js",
+    "static/js/453.af178710.chunk.js": "/Project_SDK_react_eco/static/js/453.af178710.chunk.js",
+    "static/media/bootstrap-icons.woff?": "/Project_SDK_react_eco/static/media/bootstrap-icons.39795c0b4513de014cf8.woff",
+    "static/media/bootstrap-icons.woff2?": "/Project_SDK_react_eco/static/media/bootstrap-icons.b7bcc075b395c14ce8c2.woff2",
+    "index.html": "/Project_SDK_react_eco/index.html",
+    "main.75ac6197.css.map": "/Project_SDK_react_eco/static/css/main.75ac6197.css.map",
+    "main.e3dd3d88.js.map": "/Project_SDK_react_eco/static/js/main.e3dd3d88.js.map",
+    "453.af178710.chunk.js.map": "/Project_SDK_react_eco/static/js/453.af178710.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.75ac6197.css",
+    "static/js/main.e3dd3d88.js"
+  ]
+}
